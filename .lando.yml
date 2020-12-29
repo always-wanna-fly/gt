@@ -1,0 +1,4 @@
+name: gt
+recipe: lamp
+config:
+  webroot: .
