@@ -14,8 +14,8 @@ require_once ("header.php");
 <body>
     <h1>i am body</h1>
 </body>
-<footer>
-    <h1>I am footer</h1>
-</footer>
+<?php
+require_once ("footer.php");
+?>
 
 </html>
